@@ -3,6 +3,7 @@
     <nav class="navbar navbar-light bg-white shadow-sm mb-4">
       <div class="container d-flex justify-content-between align-items-center">
         <span class="fw-bold fs-5">Doctor Appointments</span>
+        <h1>THIS IS TO CONFIRM Automatic Deployment</h1>
         <router-link to="/appointments" class="btn btn-outline-primary">⇆ Switch Page</router-link>
       </div>
     </nav>
